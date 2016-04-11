@@ -23,8 +23,8 @@ If you have any issues, questions, ideas, or concerns contact us through GitHub.
 
 ## Technologies Used
 
-• HTML
-• CSS
+• HTML<br>
+• CSS<br>
 
 ## License
 
